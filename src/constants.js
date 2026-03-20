@@ -1,68 +1,68 @@
 // Skills Section Logo's
 import htmlLogo from './assets/tech_logo/html.png';
 import cssLogo from './assets/tech_logo/css.png';
-import javascriptLogo from './assets/tech_logo/javascript.png';
+import javascriptLogo from './assets/tech_logo/JAVASCRIPT.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
 import reduxLogo from './assets/tech_logo/redux.png';
 import nextjsLogo from './assets/tech_logo/nextjs.png';
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
 import materialuiLogo from './assets/tech_logo/materialui.png';
 import bootstrapLogo from './assets/tech_logo/bootstrap.png';
-import expressjsLogo from './assets/tech_logo/express.png';
+import expressjsLogo from './assets/tech_logo/EXPRESS JS.png';
 import mysqlLogo from './assets/tech_logo/mysql.png';
 import mongodbLogo from './assets/tech_logo/mongodb.png';
 import cLogo from './assets/tech_logo/c.png';
 import cppLogo from './assets/tech_logo/cpp.png';
 import javaLogo from './assets/tech_logo/java.png';
 import pythonLogo from './assets/tech_logo/python.png';
-import typescriptLogo from './assets/tech_logo/typescript.png';
+import typescriptLogo from './assets/tech_logo/TS.png';
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
-import vercelLogo from './assets/tech_logo/vercel.png';
+import vercelLogo from './assets/tech_logo/VERSEL.png';
 import SQLLOGO from './assets/tech_logo/SQL.png';
-import Render from './assets/tech_logo/RENDER.jpeg';
+import Render from './assets/tech_logo/RENDER.png';
 import Docker from './assets/tech_logo/Docker.png';
-import SK from "./assets/tech_logo/SK.jpeg";
-import R from "./assets/tech_logo/REGRESSION.jpeg";
-import NODEJS from './assets/tech_logo/NODE.jpeg';
+import SK from "./assets/tech_logo/SCIKITLEARN.png";
+import R from "./assets/tech_logo/REGRESSION.png";
+import NODEJS from './assets/tech_logo/NODE.png';
 import STREAMLIT from "./assets/tech_logo/STREAMLIT.png";
-import DJANGO from "./assets/tech_logo/DJANGO.png";
-import DSA from "./assets/tech_logo/DSA.jpg";
-import OOP from "./assets/tech_logo/OOP.png";
-import DBMS from "./assets/tech_logo/DBMS.jpg";
+import DJANGO from "./assets/tech_logo/DJ.png";
+import DSA from "./assets/tech_logo/DSA.png";
+import OOP from "./assets/tech_logo/OPP.png";
+import DBMS from "./assets/tech_logo/DBMS.png";
 import CN from "./assets/tech_logo/CN.png";
 import OS from "./assets/tech_logo/OS.png";
 import JUPYTER from "./assets/tech_logo/JUPETER.png";
 import CICD from "./assets/tech_logo/CI-CD.png";
 import SEABORN from "./assets/tech_logo/SEABORN.png";
 import MATPLOTLIB from "./assets/tech_logo/MATPLOTLIB.png";
-import POWERBI from "./assets/tech_logo/POWERBI.jpeg";
+import POWERBI from "./assets/tech_logo/POWERBI.png";
 import TABLUE from "./assets/tech_logo/TABLUE.png";
-import PLOTY from "./assets/tech_logo/PLOTLY.png";
+import PLOTY from "./assets/tech_logo/PLOTY.png";
 import KERAS from "./assets/tech_logo/keras.png";
 import ALGEBRA from "./assets/tech_logo/ALGEBRA.png";
 import CALCULUS from "./assets/tech_logo/CALCULUS.png";
-import PROBABILITY from "./assets/tech_logo/PROBABILITY.jpeg";
+import PROBABILITY from "./assets/tech_logo/PROBABILITY.png";
 import STATISTICS from "./assets/tech_logo/STATISTICS.png";
-import PYTROCH from "./assets/tech_logo/PYTROCH.jpeg";
+import PYTROCH from "./assets/tech_logo/PYTROCH.png";
 import TENSORFLOW from "./assets/tech_logo/TENSORFLOW.png";
-import TRANSFORMER from "./assets/tech_logo/TRANSFORMERS.jpeg";
-import RNN from "./assets/tech_logo/RNN.jpg";
-import CNN from "./assets/tech_logo/CNN.jpg";
-import MODELMONITERING from "./assets/tech_logo/MODELMONITERING.jpg";
+import TRANSFORMER from "./assets/tech_logo/TRANSFORMER.png";
+import RNN from "./assets/tech_logo/RNN.png";
+import CNN from "./assets/tech_logo/CNN.jpeg";
+import MODELMONITERING from "./assets/tech_logo/MODELMONITERING.png";
 import NUMPY from "./assets/tech_logo/NUMPY.png";
-import PANDAS from "./assets/tech_logo/PANDAS.jpg";
-import SCIPY from "./assets/tech_logo/SCIPY.webp";
-import FLASK from "./assets/tech_logo/FLASK.jpeg";
-import CLUSTERING from "./assets/tech_logo/CALCULUS.png";
-import XG from "./assets/tech_logo/XG.jpg";
-import CLASSIFICATION from "./assets/tech_logo/CLASSIFICATION.jpg";
-import HT from "./assets/tech_logo/HP.jpeg";
-import CV from "./assets/tech_logo/CROSS.jpg";
-import DR from "./assets/tech_logo/DR.jpg";
-import FE from "./assets/tech_logo/FE.jpg";
+import PANDAS from "./assets/tech_logo/PANDAS.png";
+import SCIPY from "./assets/tech_logo/SCIPY.png";
+import FLASK from "./assets/tech_logo/FLASK.png";
+import CLUSTERING from "./assets/tech_logo/CLUSTERING.png";
+import XG from "./assets/tech_logo/XG.png";
+import CLASSIFICATION from "./assets/tech_logo/CLASSIFICATION.png";
+import HT from "./assets/tech_logo/Ht.png";
+import CV from "./assets/tech_logo/CV.png";
+import DR from "./assets/tech_logo/DR.png";
+import FE from "./assets/tech_logo/FE.png";
 
 
 // Project Section Logo's
@@ -86,7 +86,6 @@ export const SkillsInfo = [
       { name: 'JavaScript', logo: javascriptLogo },
       { name: 'React JS', logo: reactjsLogo },
       { name: 'Redux', logo: reduxLogo },
-      { name: 'Next JS', logo: nextjsLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
       { name: 'Material UI', logo: materialuiLogo },
       { name: 'Bootstrap', logo: bootstrapLogo },
@@ -117,7 +116,6 @@ export const SkillsInfo = [
       { name: 'C++', logo: cppLogo },
       { name: 'Java', logo: javaLogo },
       { name: 'Python', logo: pythonLogo },
-      { name: 'JavaScript', logo: javascriptLogo },
       { name: 'TypeScript', logo: typescriptLogo },
       { name: 'SQL', logo: SQLLOGO }
     ],
