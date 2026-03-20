@@ -71,7 +71,10 @@ import APNAVIDEOCOLL from './assets/work_logo/APNAVIDEOCOLL.png';
 import WEATHER from "./assets/work_logo/WHEATHER.png";
 import PriceComparison from "./assets/work_logo/price.png";
 import ImageScraping from "./assets/work_logo/scraping.png";
-
+import ChatApp from "./assets/work_logo/ChatApp.png";
+import Fire from "./assets/work_logo/FirePrediction.png";
+import Diabetes from "./assets/work_logo/Diabetes.png";
+import ChatAnalysis from "./assets/work_logo/ChatAnalysis.png";
 
 
 export const SkillsInfo = [
@@ -252,6 +255,46 @@ export const SkillsInfo = [
       tags: [ "Render", "React", "HTML", "CSS", "JS","NODE JS"],
       github: "https://github.com/kartik14322/Weather_app",
       webapp: "https://weatherapp-kartik143.onrender.com",
+    },
+     {
+      id: 5,
+      title: "ML Based Intelligent Diabetes Prediction System",
+      description:
+      "Developed an intelligent diabetes prediction system using supervised machine learning algorithms to analyze patient medical data and estimate disease risk. The project includes data preprocessing, exploratory data analysis, feature selection, model training, and performance evaluation to ensure accurate predictions. This system demonstrates practical implementation of machine learning techniques in healthcare analytics to support early diagnosis and preventive decision-making.",
+      image: Diabetes,
+      tags: [ "Render", "Streamlit", "HTML", "CSS", "Python","AIML"],
+      github: "https://github.com/kartik14322/Diabites_Prediction_System",
+      webapp: "https://diabites-prediction-system-kartik143.onrender.com",
+    },
+     {
+      id: 6,
+      title: "WhatsApp Data Analytics Platform",
+      description:
+        "ChatInsight is a web-based WhatsApp chat analysis application that transforms exported chat data into meaningful insights and visual reports. The system performs data cleaning, text preprocessing, and statistical analysis to generate metrics such as message frequency, active users, word trends, emoji usage, and activity timelines. Built using Python and data visualization libraries, the platform presents interactive dashboards to help users understand communication patterns and engagement behavior.",
+      image: ChatAnalysis,
+      tags: [ "Render", "Python", "HTML", "CSS", "Streamlit"],
+      github: "https://github.com/kartik14322/Whatsapp_Chat_Analysis",
+      webapp: "https://whatsapp-chat-analysis-kartik143.onrender.com",
+    },
+     {
+      id: 7,
+      title: "Real-Time Full-Stack Chat Application",
+      description:
+        "Developed a real-time full-stack chat application that enables instant messaging with secure user authentication and persistent chat storage. The application integrates a responsive frontend with a robust backend API, ensuring seamless data flow and dynamic message updates. This project demonstrates strong skills in full-stack development, API integration, state management, and modern UI design.",
+      image: ChatApp,
+      tags: [ "Render", "React", "HTML", "CSS", "JS","NODE JS","Socket.IO"],
+      github: "https://github.com/kartik14322/ChatApp",
+      webapp: "https://chatapp-kartik143.onrender.com",
+    },
+    {
+      id: 8,
+      title: "AIML-Based Forest Fire Prediction System",
+      description:
+      "Developed a machine learning–based forest fire prediction system that analyzes environmental and meteorological parameters to estimate fire risk levels. The project includes data preprocessing, feature selection, model training, and performance evaluation to ensure accurate predictions. This system highlights practical implementation of supervised learning algorithms to solve real-world environmental problems and support early disaster prevention strategies.",
+      image: Fire,
+      tags: [ "Render", "Streamlit", "HTML", "CSS", "Python","AIML"],
+      github: "https://github.com/kartik14322/Forest_Fire_prediction_System",
+      webapp: "https://forest-fire-prediction-system-kartik143.onrender.com",
     },
   ];  
 
