@@ -18,13 +18,13 @@ import cppLogo from './assets/tech_logo/cpp.png';
 import javaLogo from './assets/tech_logo/java.png';
 import pythonLogo from './assets/tech_logo/python.png';
 import typescriptLogo from './assets/tech_logo/typescript.png';
-import sqlLogo from './assets/tech_logo/sql.png';
+import sql from './assets/tech_logo/sql.png';
 
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
-import vercelLogo from './assets/tech_logo/vercel.png';
+import vercelLogo from './assets/tech_logo/versel.png';
 import renderLogo from './assets/tech_logo/render.png';
 import dockerLogo from './assets/tech_logo/docker.png';
 
@@ -32,37 +32,37 @@ import sk from "./assets/tech_logo/scikitlearn.png";
 import regression from "./assets/tech_logo/regression.png";
 import nodejs from './assets/tech_logo/node.png';
 import streamlit from "./assets/tech_logo/streamlit.png";
-import django from "./assets/tech_logo/django.png";
+import django from "./assets/tech_logo/dj.png";
 
 import dsa from "./assets/tech_logo/dsa.png";
-import oop from "./assets/tech_logo/oop.png";
+import oop from "./assets/tech_logo/opp.png";
 import dbms from "./assets/tech_logo/dbms.png";
-import cn from "./assets/tech_logo/cn.png";
+import cn from "./assets/tech_logo/cnn.png";
 import os from "./assets/tech_logo/os.png";
 
-import jupyter from "./assets/tech_logo/jupyter.png";
-import cicd from "./assets/tech_logo/cicd.png";
+import jupyter from "./assets/tech_logo/jupeter.png";
+import cicd from "./assets/tech_logo/ci-cd.png";
 
 import seaborn from "./assets/tech_logo/seaborn.png";
 import matplotlib from "./assets/tech_logo/matplotlib.png";
 import powerbi from "./assets/tech_logo/powerbi.png";
-import tableau from "./assets/tech_logo/tableau.png";
-import plotly from "./assets/tech_logo/plotly.png";
+import tableau from "./assets/tech_logo/tabelu.png";
+import plotly from "./assets/tech_logo/ploty.png";
 
 import keras from "./assets/tech_logo/keras.png";
 
 import algebra from "./assets/tech_logo/algebra.png";
 import calculus from "./assets/tech_logo/calculus.png";
 import probability from "./assets/tech_logo/probability.png";
-import statistics from "./assets/tech_logo/statistics.png";
+import statistics from "./assets/tech_logo/satatics.png";
 
-import pytorch from "./assets/tech_logo/pytorch.png";
+import pytorch from "./assets/tech_logo/pytroch.png";
 import tensorflow from "./assets/tech_logo/tensorflow.png";
 import transformer from "./assets/tech_logo/transformer.png";
 import rnn from "./assets/tech_logo/rnn.png";
 import cnn from "./assets/tech_logo/cnn.png";
 
-import modelmonitoring from "./assets/tech_logo/modelmonitoring.png";
+import modelmonitoring from "./assets/tech_logo/modelmonitering.png";
 
 import numpy from "./assets/tech_logo/numpy.png";
 import pandas from "./assets/tech_logo/pandas.png";
@@ -108,10 +108,10 @@ export const SkillsInfo = [
   {
     title: 'Backend',
     skills: [
-      { name: 'Node JS', logo: NODEJS },
-      { name: 'Streamlit', logo: STREAMLIT },
-      { name: 'Flask', logo: FLASK },
-      { name: 'Django', logo: DJANGO },
+      { name: 'Node JS', logo: nodejs },
+      { name: 'Streamlit', logo: streamlit },
+      { name: 'Flask', logo: flask  },
+      { name: 'Django', logo: django },
       { name: 'Express JS', logo: expressjsLogo },
       
     ],
@@ -131,7 +131,7 @@ export const SkillsInfo = [
       { name: 'Java', logo: javaLogo },
       { name: 'Python', logo: pythonLogo },
       { name: 'TypeScript', logo: typescriptLogo },
-      { name: 'SQL', logo: SQLLOGO }
+      { name: 'SQL', logo: sql }
     ],
   },
   {
@@ -142,10 +142,10 @@ export const SkillsInfo = [
       { name: 'VS Code', logo: vscodeLogo },
       { name: 'Postman', logo: postmanLogo },
       { name: 'Vercel', logo: vercelLogo },
-      { name: 'Render', logo: Render },
-      { name: 'Docker', logo: Docker },
-      { name: 'Jupyter Notebook', logo: JUPYTER },
-      { name: 'CI/CD for ML', logo: CICD },
+      { name: 'Render', logo: renderLogo },
+      { name: 'Docker', logo: dockerLogo },
+      { name: 'Jupyter Notebook', logo: jupyter },
+      { name: 'CI/CD for ML', logo: cicd },
       // { name: 'Kubernetes', logo: cppLogo },
 
     ],
@@ -153,65 +153,65 @@ export const SkillsInfo = [
    {
     title: 'Core Computer Science',
     skills: [
-      { name: 'DSA', logo: DSA },
-      { name: 'OOPS', logo: OOP },
-      { name: 'DBMS', logo: DBMS },
-      { name: 'Operating Systems', logo: OS},
-      { name: 'Computer Networks', logo: CN }
+      { name: 'DSA', logo: dsa },
+      { name: 'OOPS', logo: oop },
+      { name: 'DBMS', logo: dbms },
+      { name: 'Operating Systems', logo: os},
+      { name: 'Computer Networks', logo: cn }
     ],
   },
   {
     title: 'Data Analysis & Manipulation',
     skills: [
-      { name: 'NumPy', logo: NUMPY },
-      { name: 'Pandas', logo: PANDAS  },
-      { name: 'SciPy', logo: SCIPY },
-      { name: 'Model Monitoring', logo: MODELMONITERING },
+      { name: 'NumPy', logo: numpy },
+      { name: 'Pandas', logo: pandas  },
+      { name: 'SciPy', logo: scipy },
+      { name: 'Model Monitoring', logo: modelmonitoring },
     ],
   },
   {
     title: 'Data Visualization',
     skills: [
-      { name: 'Matplotlib', logo: MATPLOTLIB },
-      { name: 'Seaborn', logo: SEABORN },
-      { name: 'Plotly', logo: PLOTY },
-      { name: 'Power BI', logo:  POWERBI},
-      { name: 'Tableau', logo: TABLUE }
+      { name: 'Matplotlib', logo: matplotlib },
+      { name: 'Seaborn', logo: seaborn },
+      { name: 'Plotly', logo: plotly },
+      { name: 'Power BI', logo:  powerbi},
+      { name: 'Tableau', logo: tableau }
     ],
   },
   
   {
     title: 'Deep Learning',
     skills: [
-      { name: 'TensorFlow', logo: TENSORFLOW   },
-      { name: 'Keras', logo: KERAS },
-      { name: 'PyTorch', logo: PYTROCH },
-      { name: 'CNN', logo: CNN },
-      { name: 'Transformers', logo: TRANSFORMER },
-      { name: 'RNN', logo: RNN }
+      { name: 'TensorFlow', logo: tensorflow   },
+      { name: 'Keras', logo: keras },
+      { name: 'PyTorch', logo: pytorch },
+      { name: 'CNN', logo: cnn },
+      { name: 'Transformers', logo: transformer },
+      { name: 'RNN', logo: rnn }
     ],
   },
   {
     title: 'Machine Learning',
     skills: [
-      { name: 'Scikit-learn', logo: SK },
-      { name: 'Regression', logo: R },
-      { name: 'Classification', logo: CLASSIFICATION },
-      { name: 'Clustering', logo: CLUSTERING },
-      { name: 'Cross Validation', logo: CV },
-      { name: 'Hyperparameter Tuning', logo: HT },
-      { name: 'XGBoost', logo: XG },
-      { name: 'Dimensionality Reduction', logo: DR },
-      { name: 'Feature Engineering', logo: FE }
+      { name: 'Scikit-learn', logo: sk },
+      { name: 'Regression', logo: regression },
+      { name: 'Classification', logo: classification },
+      { name: 'Clustering', logo: clustering },
+      { name: 'Cross Validation', logo: cv },
+      { name: 'Hyperparameter Tuning', logo: ht },
+      { name: 'XGBoost', logo: xgboost },
+      { name: 'Dimensionality Reduction', logo: dr },
+      { name: 'Feature Engineering', logo: fe }
     ],
   },
   {
     title: 'Mathematics',
     skills: [
-      { name: 'Linear Algebra', logo: ALGEBRA },
-      { name: 'Calculus', logo: CALCULUS },
-      { name: 'Statistics', logo: STATISTICS },
-      { name: 'Probability', logo: PROBABILITY }
+      { name: 'Linear Algebra', logo: algebra },
+      { name: 'Calculus', logo: calculus },
+      { name: 'Statistics', logo: statistics },
+      { name: 'Probability', logo:  probability }
     ],
   },
 ];
