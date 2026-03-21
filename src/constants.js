@@ -50,7 +50,7 @@ import PYTROCH from "./assets/tech_logo/PYTROCH.png";
 import TENSORFLOW from "./assets/tech_logo/TENSORFLOW.png";
 import TRANSFORMER from "./assets/tech_logo/TRANSFORMER.png";
 import RNN from "./assets/tech_logo/RNN.png";
-import CNN from "./assets/tech_logo/CNN.jpeg";
+import CNN from "./assets/tech_logo/CNN.png";
 import MODELMONITERING from "./assets/tech_logo/MODELMONITERING.png";
 import NUMPY from "./assets/tech_logo/NUMPY.png";
 import PANDAS from "./assets/tech_logo/PANDAS.png";
