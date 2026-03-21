@@ -24,7 +24,7 @@ import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
-import vercelLogo from './assets/tech_logo/versel.png';
+import vercelLogo from './assets/tech_logo/vercel.png';
 import renderLogo from './assets/tech_logo/render.png';
 import dockerLogo from './assets/tech_logo/docker.png';
 
