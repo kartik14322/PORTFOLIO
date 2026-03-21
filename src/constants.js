@@ -64,6 +64,88 @@ import DR from "./assets/tech_logo/DR.png";
 import FE from "./assets/tech_logo/FE.png";
 
 
+
+
+// Skills Section Logo's
+import htmlLogo from './assets/tech_logo/html.png';
+import cssLogo from './assets/tech_logo/css.png';
+import javascriptLogo from './assets/tech_logo/javascript.png';
+import reactjsLogo from './assets/tech_logo/reactjs.png';
+import reduxLogo from './assets/tech_logo/redux.png';
+import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
+import materialuiLogo from './assets/tech_logo/materialui.png';
+import bootstrapLogo from './assets/tech_logo/bootstrap.png';
+import expressjsLogo from './assets/tech_logo/expressjs.png';
+
+import mysqlLogo from './assets/tech_logo/mysql.png';
+import mongodbLogo from './assets/tech_logo/mongodb.png';
+
+import cLogo from './assets/tech_logo/c.png';
+import cppLogo from './assets/tech_logo/cpp.png';
+import javaLogo from './assets/tech_logo/java.png';
+import pythonLogo from './assets/tech_logo/python.png';
+import typescriptLogo from './assets/tech_logo/typescript.png';
+import sqlLogo from './assets/tech_logo/sql.png';
+
+import gitLogo from './assets/tech_logo/git.png';
+import githubLogo from './assets/tech_logo/github.png';
+import vscodeLogo from './assets/tech_logo/vscode.png';
+import postmanLogo from './assets/tech_logo/postman.png';
+import vercelLogo from './assets/tech_logo/vercel.png';
+import renderLogo from './assets/tech_logo/render.png';
+import dockerLogo from './assets/tech_logo/docker.png';
+
+import sk from "./assets/tech_logo/scikitlearn.png";
+import regression from "./assets/tech_logo/regression.png";
+import nodejs from './assets/tech_logo/node.png';
+import streamlit from "./assets/tech_logo/streamlit.png";
+import django from "./assets/tech_logo/django.png";
+
+import dsa from "./assets/tech_logo/dsa.png";
+import oop from "./assets/tech_logo/oop.png";
+import dbms from "./assets/tech_logo/dbms.png";
+import cn from "./assets/tech_logo/cn.png";
+import os from "./assets/tech_logo/os.png";
+
+import jupyter from "./assets/tech_logo/jupyter.png";
+import cicd from "./assets/tech_logo/cicd.png";
+
+import seaborn from "./assets/tech_logo/seaborn.png";
+import matplotlib from "./assets/tech_logo/matplotlib.png";
+import powerbi from "./assets/tech_logo/powerbi.png";
+import tableau from "./assets/tech_logo/tableau.png";
+import plotly from "./assets/tech_logo/plotly.png";
+
+import keras from "./assets/tech_logo/keras.png";
+
+import algebra from "./assets/tech_logo/algebra.png";
+import calculus from "./assets/tech_logo/calculus.png";
+import probability from "./assets/tech_logo/probability.png";
+import statistics from "./assets/tech_logo/statistics.png";
+
+import pytorch from "./assets/tech_logo/pytorch.png";
+import tensorflow from "./assets/tech_logo/tensorflow.png";
+import transformer from "./assets/tech_logo/transformer.png";
+import rnn from "./assets/tech_logo/rnn.png";
+import cnn from "./assets/tech_logo/cnn.png";
+
+import modelmonitoring from "./assets/tech_logo/modelmonitoring.png";
+
+import numpy from "./assets/tech_logo/numpy.png";
+import pandas from "./assets/tech_logo/pandas.png";
+import scipy from "./assets/tech_logo/scipy.png";
+
+import flask from "./assets/tech_logo/flask.png";
+
+import clustering from "./assets/tech_logo/clustering.png";
+import xgboost from "./assets/tech_logo/xg.png";
+import classification from "./assets/tech_logo/classification.png";
+
+import ht from "./assets/tech_logo/ht.png";
+import cv from "./assets/tech_logo/cv.png";
+import dr from "./assets/tech_logo/dr.png";
+import fe from "./assets/tech_logo/fe.png";
+
 // Project Section Logo's
 import AIRBNB from './assets/work_logo/AIRBNB.png';
 import APNAVIDEOCOLL from './assets/work_logo/APNAVIDEOCOLL.png';
