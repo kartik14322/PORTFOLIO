@@ -89,6 +89,7 @@ import ChatApp from "./assets/work_logo/ChatApp.png";
 import Fire from "./assets/work_logo/FirePrediction.png";
 import Diabetes from "./assets/work_logo/Diabetes.png";
 import ChatAnalysis from "./assets/work_logo/ChatAnalysis.png";
+import Take from "./assets/work_logo/take.png";
 
 
 export const SkillsInfo = [
@@ -307,6 +308,16 @@ export const SkillsInfo = [
       tags: [ "Render", "Streamlit", "HTML", "CSS", "Python","AIML"],
       github: "https://github.com/kartik14322/Forest_Fire_prediction_System",
       webapp: "https://forest-fire-prediction-system-kartik143.onrender.com",
+    },
+    {
+      id: 9,
+      title: "Real Time Note Taking Web App",
+      description:
+      "A real-time collaborative note-taking web application built using React.js, designed to help users create, edit, and share notes instantly with seamless synchronization across multiple users and devices.",
+      image: Take,
+      tags: [ "Render", "Streamlit", "HTML", "CSS", "React","Node Js"],
+      github: "https://github.com/kartik14322/Note_Taking",
+      webapp: "https://note-taking-kartik143.onrender.com",
     },
   ];  
 
