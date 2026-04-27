@@ -37,7 +37,7 @@ import django from "./assets/tech_logo/dj.png";
 import dsa from "./assets/tech_logo/dsa.png";
 import oop from "./assets/tech_logo/opp.png";
 import dbms from "./assets/tech_logo/dbms.png";
-import cn from "./assets/tech_logo/cnn.png";
+import cn from "./assets/tech_logo/cn.png";
 import os from "./assets/tech_logo/os.png";
 
 import jupyter from "./assets/tech_logo/jupeter.png";

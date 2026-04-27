@@ -23,6 +23,7 @@ const Footer = () => {
             { name: "About", id: "about" },
             { name: "Skills", id: "skills" },
             { name: "Projects", id: "Projects" },
+            { name: "Contact", id: "contact" },
           ].map((item, index) => (
             <button
               key={index}
@@ -59,7 +60,7 @@ const Footer = () => {
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
-          © 2025 Kartik Sahu. All rights reserved.
+          © 2026 Kartik Sahu. All rights reserved.
         </p>
       </div>
     </footer>
