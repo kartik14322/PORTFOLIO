@@ -47,7 +47,7 @@ const About = () => {
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1zAKkvKiQkLFFXD5vswVfaTtAFF3tuVod/view?usp=drivesdk"
+            href="https://docs.google.com/document/d/1mer79jSFF0TyEL5CDQ4KBbQa6eh0LJId/edit?usp=drivesdk&ouid=116321950707161368589&rtpof=true&sd=true"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
@@ -60,7 +60,7 @@ const About = () => {
           </a>
           
           <a
-            href="https://drive.google.com/file/d/1zAKkvKiQkLFFXD5vswVfaTtAFF3tuVod/view?usp=drivesdk"
+            href="https://docs.google.com/document/d/1ACyzFbrCkjTCY0Nxdmr1S5iwqRBA2MbH/edit?usp=drivesdk&ouid=116321950707161368589&rtpof=true&sd=true"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"

@@ -152,7 +152,7 @@ const Navbar = () => {
                 <FaLinkedin size={25} />
               </a>
               <a
-                href="https://github.com/kartik14319"
+                href="https://github.com/kartik14322"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
